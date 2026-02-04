@@ -1,0 +1,8 @@
+{
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "python.defaultInterpreterPath": "${workspaceFolder}/apps/api/.venv/bin/python"
+}
